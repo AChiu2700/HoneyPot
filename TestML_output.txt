@@ -1,0 +1,12 @@
+Voting Classifier (Soft) Evaluation:
+Accuracy: 0.7346
+Voting Classifier (Soft) Evaluation:
+Accuracy: 0.7410
+Voting Classifier (Soft) Evaluation:
+Accuracy: 0.7410
+Voting Classifier (Soft) Evaluation:
+Accuracy: 0.7553
+Voting Classifier (Soft) Evaluation:
+Accuracy: 0.5938
+Voting Classifier (Soft) Evaluation:
+Accuracy: 0.8319
